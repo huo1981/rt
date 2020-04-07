@@ -1,0 +1,15 @@
+{
+    "name": "hjx/rt",
+    "authors": [
+        {
+            "name": "huojiuxing",
+            "email": "huojiuxing@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Hjx\\Rt\\": "src/hjx/rt"
+    	}
+    }
+}
